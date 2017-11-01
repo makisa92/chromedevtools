@@ -1,0 +1,24 @@
+.reveal section img {
+    box-shadow: none;
+    border: 0;
+}
+
+.main-title img {
+    /* display: inline-block; */
+    width: 30%;
+}
+
+.main-title h1 {
+    /* display: inline-block; */
+    text-transform: uppercase;
+    color: #7aa0b9;
+    text-shadow: 5px 5px 5px #d4c9c9;
+    background: red;
+}
+
+.second-slide p {
+
+    text-align: left;
+}
+
+
