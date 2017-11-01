@@ -1,1 +1,1 @@
-localStorage.setItem("kljuc", "Marija");
+localStorage.setItem("key", "DevTools");
