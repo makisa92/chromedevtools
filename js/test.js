@@ -1,1 +1,2 @@
-localStorage.setItem("key", "DevTools");
+localStorage.setItem("meetup", "DevTools");
+
